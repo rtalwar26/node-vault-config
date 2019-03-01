@@ -14,5 +14,13 @@
         "@types/node": "^11.9.6",
         "express": "^4.16.4",
         "mocha": "^6.0.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rtalwar26/node-vault-config"
+    },
+    "author": {
+        "name": "Rajat Talwar",
+        "url": "rtalwar26.github.io"
     }
 }
