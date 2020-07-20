@@ -1,6 +1,6 @@
 {
     "name": "node-vault-config",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "A package to get config from vault server",
     "main": "./VaultConfig.js",
     "scripts": {
